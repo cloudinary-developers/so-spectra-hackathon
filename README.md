@@ -1,5 +1,7 @@
 # Spectra Hackathon
 
+![Spectra: The women&apos;s hackathon.](.gitbook/assets/spectra-logo.png)
+
 ### Exploring the Tech Space Together
 
 Spectra is an organization that hosts bi-annual, full-day events on the west coast for women in tech. Mostly recently, we hosted a women’s hackathon at YouTube HQ in July 2016.
