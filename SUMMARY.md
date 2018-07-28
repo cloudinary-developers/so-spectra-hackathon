@@ -1,11 +1,11 @@
 # Table of contents
 
 * [Spectra Hackathon](README.md)
-* [Challenge and Prizes](challenge-and-prizes/README.md)
+* [Challenge and Prizes](challenge-and-prizes.md)
 
 ## Workshop
-  * [Intro to Swift](challenge-and-prizes/intro-to-swift.md)
 
+* [Intro to iOS Workshop + Photo Filter App Tutorial](workshop/intro-to-swift.md)
 
 ## Cloudinary
 
