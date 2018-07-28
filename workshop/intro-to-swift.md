@@ -15,7 +15,7 @@ In this tutorial we'll build an iOS application that adds a customized filter to
 * Macbook
 * Latest stable version of Xcode
 * [CocoaPods](https://cocoapods.org/)
-* Clone Starter project here: \[github link\]
+* Clone Starter project here: [https://github.com/timirahj/spectra-hackathon](https://github.com/timirahj/spectra-hackathon)
 * [Cloudinary Account](https://www.cloudinary.com)
 
 ## Viewing a User's Profile Image
