@@ -4,7 +4,7 @@ This tutorial covers a basic introduction to iOS Development using Swift, follow
 
 ## Intro to iOS Presentation
 
-See presentation slides here: \[link\]
+See _Intro to iOS + Swift_  presentation slides [_**here**_](https://docs.google.com/presentation/d/1G6mlK32rSKp-MByiOS3j3e-3uZrQYxKMzapCWojg6nw/edit?usp=sharing)..
 
 ## Tutorial: Build a Fun Photo Filter App!
 
